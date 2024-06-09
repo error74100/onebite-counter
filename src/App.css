@@ -1,0 +1,32 @@
+.wrap {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h2 {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f6f6f6;
+  border-radius: 10px;
+}
+
+.section .count {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.section button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.section button.type2 {
+  color: #fff;
+  background-color: #222;
+}
